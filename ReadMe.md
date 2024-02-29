@@ -1,5 +1,5 @@
 # Olá eu sou o Glauco!
-🔭 Sou estudante de Front-end<br>🌱 Procurando estagio
+• 🔭 Sou estudante de Front-end<br>• 🌱 Procurando estagio
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_glauco___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/glauco-soares-9665102b7)</br>
 
